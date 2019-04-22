@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>false</actions_access>
@@ -32,6 +31,7 @@
         <sys_update_name>sys_db_object_46baa169090232007f44e1046c8ff695</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-10 15:48:55</sys_updated_on>
+        <u_due_date/>
         <update_access>true</update_access>
         <user_role display_value="x_snc_createnotes.note_user" name="x_snc_createnotes.note_user">037be169090232007f44e1046c8ff602</user_role>
         <ws_access>true</ws_access>
